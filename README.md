@@ -6,7 +6,7 @@ A working framework for technical SEO and GEO (Generative Engine Optimization) �
 
 ## The name
 
-Ygramul takes its name from the spider in Michael Ende's *The Neverending Story* — a nod to the fact that search crawlers are, themselves, spiders. The methodology mirrors how those crawlers work: many simultaneous angles, no single source of truth, judgment emerging from the pattern across signals rather than any one of them.
+Ygramul takes its name from the spider in Michael Ende's *The Neverending Story* — a nod to the fact that search crawlers are, themselves, spiders.
 
 Built by [Ivan Nonveiller](https://www.linkedin.com/in/ivannonveiller/) — enterprise SEO/GEO strategist.
 
